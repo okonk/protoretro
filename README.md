@@ -6,6 +6,8 @@ This was built by AI (Opus 4.5) in 5 minutes using a simple prompt: "Write me a 
 
 It clarified tech stack (React + Node.js/Express), should collaboration be real-time? (yes), How should users be identified (simple name, no password), How should data be stored? (Session-based with no persistence)
 
+<img width="734" height="420" alt="image" src="https://github.com/user-attachments/assets/2b034b83-1bf4-421a-b7ab-d71f9da3450a" />
+
 <img width="2552" height="1306" alt="image" src="https://github.com/user-attachments/assets/e62542dc-8d41-48fa-8868-7e420a0df30c" />
 
 ## Features
